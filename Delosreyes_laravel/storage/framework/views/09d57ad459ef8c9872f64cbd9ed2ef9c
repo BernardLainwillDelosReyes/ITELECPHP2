@@ -1,0 +1,37 @@
+<?php $__env->startSection('content'); ?>
+<div class="container">
+	<div class="row">
+		<div class="col-md-10 col-md-offset-1">
+			<div class="panel panel-default">
+				<div class="panel-heading">About Me</div>
+
+				<div class="panel-body">
+					&nbsp;&nbsp;Hi, I'm Arnel P. Canoy, 20 years old. Living in San Fernando Cebu and currently studying at University of Cebu
+					 Main-campus with a Course, Bachelor of Science in Information Technology(BSIT). And Now i am a 4rth year student and want
+					 to learn more about programming languages. I learn how to use HTML , CSS , PHP , JAVASCRIPT and other framework like
+					 LARAVEL.  We develop some web pages using HTML & CSS . We develop a simple system . As of now we are currently making our
+					 thesis document and after documentation we implement it. My Goal is to graduate in this course and to find a suitable company where i 
+					 can demonstrate what are the learnings did i get.
+
+			</div>
+			 <div class="panel-body">
+			 	I have 2 brothers and 3 sisters and i am a youngest. My Hobbies are Playing basketball, volleyball , watching anime , reading 
+			 	stories and playing computer games . I have a very close friend and everytime i have a problem she is the only one who will
+			  comforted me . I love her as my BestFriend i don't want left her or i don't want to break of what we have now of what 
+			  relationships do we have . I treasure her very much , i love my very closed friend . I'm a shy type of person and sometimes i don't share 
+			  to others of what problems do i have .
+
+
+			 </div>
+			 <div class="panel-body">
+
+			 	Future is like a computer game that once you  Game-over/Failed it has a Restart to continue to commit your dreams .
+
+
+			 </div>
+		</div>
+	</div>
+</div>
+<?php $__env->stopSection(); ?>
+
+<?php echo $__env->make('app', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
